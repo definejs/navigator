@@ -1,0 +1,21 @@
+{
+  "name": "@definejs/navigator",
+  "version": "0.1.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "micty",
+  "email": "mictydeng@qq.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/definejs/navigator.git"
+  },
+  "dependencies": {
+    "@definejs/emitter": "^0.1.4",
+    "@definejs/hash": "^0.1.4",
+    "@definejs/session-storage": "^0.1.2",
+    "@definejs/string": "^0.1.5"
+  }
+}
