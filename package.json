@@ -1,6 +1,6 @@
 {
   "name": "@definejs/navigator",
-  "version": "0.1.7",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -13,9 +13,9 @@
     "url": "https://github.com/definejs/navigator.git"
   },
   "dependencies": {
-    "@definejs/emitter": "^0.1.4",
-    "@definejs/hash": "^0.1.4",
-    "@definejs/session-storage": "^0.1.2",
-    "@definejs/string": "^0.1.5"
+    "@definejs/emitter": "^1.0.0",
+    "@definejs/hash": "^1.0.0",
+    "@definejs/session-storage": "^1.0.0",
+    "@definejs/string": "^1.0.0"
   }
 }
